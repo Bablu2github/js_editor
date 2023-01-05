@@ -68,7 +68,7 @@ html, body {
 }
 
 .editor__console {
-    background-color: rgb(18, 17, 17);
+    background-color: rgb(18, 17, 16);
     width: 150%;
     height: 15vw;
     margin-top: .9em;
